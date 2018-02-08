@@ -31,10 +31,6 @@ What a year of experiences, travels, friendships, love, check it out!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yQ-PQTPhuQg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-After that in 2014, a new Caio had grown out of me. Anthony, my son, was born in October 2014, I have now oficially joined the dad's club. Check how it was his first years, from his mom's point of view!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zLOtbMmuwJs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Througout my life I haven't sit for a breeze, I am continiously studying and pushing myself to learn and experience on a daily manner. I trully believe we gotta go out of confort zone to keep growing. Sitting long hours in front of TV, or sleeping till late isn't really my style. I like being in a fast paced environment and feeling myself in continuous improvement.
 
 This blog is here to help me out to express myself and get to know more people, just like you. Leave a comment :)
