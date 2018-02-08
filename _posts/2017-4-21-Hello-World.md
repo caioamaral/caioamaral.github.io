@@ -17,7 +17,7 @@ It all started with this ping-pong robot.
 
 I've built it when I was around 15-16 years old. Fully analog, arduino wasn't around yet. Actually I didn't even know microcontrollers existed. By that time I've decided to be an engineer and never gave up.
 
-While studing engineering I have joined a group of amazing students. Our main goal was to build the most efficient vehicle ever. We haven't got that far on [that time](http://noticias.ufsc.br/2012/04/equipe-ufsc-de-eficiencia-energetica-conquista-setimo-lugar-na-shell-eco-marathon-nos-eua/).. although we had a loot of fun!
+While studing engineering I have joined a group of amazing students. Our main goal was to build the most efficient vehicle ever. We have got good results [that time](http://noticias.ufsc.br/2012/04/equipe-ufsc-de-eficiencia-energetica-conquista-setimo-lugar-na-shell-eco-marathon-nos-eua/).. and we had a loot of fun! In the video bellow we are celebrating our best mark: 412 km/l of gasoline :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N2eOHBMtf1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
