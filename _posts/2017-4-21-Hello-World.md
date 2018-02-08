@@ -25,7 +25,7 @@ And gosh, how much I miss that!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m8JuFD3g-Pc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-After that, in 2013, I have been for a year studing in United Kingdom. And what is not a secret to anyone, but it changed my life. I went to study MSc in Embedded Microelectronics and Wireless Systems, in Coventry, but came back with a baby!!
+After that, in 2013, I have been for a year studing in United Kingdom. I went to study MSc in Embedded Microelectronics and Wireless Systems, in Coventry University.
 
 What a year of experiences, travels, friendships, love, check it out!
 
