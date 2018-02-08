@@ -2,6 +2,7 @@
 layout: post
 title: Hello World!
 tags: off the build
+excerpt_separator: "<!--readmore-->"
 ---
 
 Get to know a bit about me and why I have this page!
@@ -24,7 +25,6 @@ And gosh, how much I miss that!!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m8JuFD3g-Pc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 After that, in 2013, I have been for a year studing in United Kingdom. I went to study MSc in Embedded Microelectronics and Wireless Systems, in Coventry University.
 
 What a year of experiences, travels, friendships, love, check it out!
@@ -33,6 +33,7 @@ What a year of experiences, travels, friendships, love, check it out!
 
 Througout my life I haven't sit for a breeze, I am continiously studying and pushing myself to learn and experience on a daily manner. I trully believe we gotta go out of confort zone to keep growing. Sitting long hours in front of TV, or sleeping till late isn't really my style. I like being in a fast paced environment and feeling myself in continuous improvement.
 
+<!--readmore-->
 This blog is here to help me out to express myself and get to know more people, just like you. Leave a comment :)
 
 
