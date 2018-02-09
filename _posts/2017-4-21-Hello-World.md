@@ -5,11 +5,7 @@ tags: off the build
 excerpt_separator: "<!--readmore-->"
 ---
 
-Get to know a bit about me and why I have this page!
-
-Contact informations are in [about](/about).
-
-In this page I will share large spectrum stuff that can fly somewhere between playing drums and welding. I love making things and that explains a lot about me.
+This is my personal page and here I will share large spectrum stuff that can fly somewhere between technology, music or even welding. I love making things and that explains a lot about me.
 
 It all started with this ping-pong robot.
 
